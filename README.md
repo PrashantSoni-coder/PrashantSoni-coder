@@ -1,12 +1,12 @@
-# 💫 About Me:
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="40" height="40" /> About Me:
 My name is Prashant soni currently persuing Btech CS from GLA UNIVERSITY. Achived 8+ GPA  in college and  Rank 7 in Codechef Codebusters Hackathon (Spectra 3.0)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Peashant_soni_63) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantsoni-coder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soniprashant562005@gmail.com) 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20Decoration.png" alt="Heart Decoration" width="35" height="35" /> Socials:
+[![Instagram](https://img.icons8.com/?size=100&id=nj0Uj45LGUYh&format=png&color=000000)](https://instagram.com/Peashant_soni_63) [![LinkedIn](https://img.icons8.com/?size=100&id=kBCrQMzpQDLQ&format=png&color=000000)](https://linkedin.com/in/prashantsoni-coder) [![email](https://img.icons8.com/?size=100&id=HyjRWfleuVje&format=png&color=000000)](mailto:soniprashant562005@gmail.com) 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Skull%20and%20Crossbones.png" alt="Skull and Crossbones" width="35" height="35" /> Tech Stack:
+![CSS3](https://img.icons8.com/?size=100&id=3BTBsJs5myRy&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=Nkym0Ujb8VGI&format=png&color=000000) ![github](https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000) ![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000) ![Nodemon](https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000) ![Vite](https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PrashantSoni-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PrashantSoni-coder&theme=dark&hide_border=false)<br/>
